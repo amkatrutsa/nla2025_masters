@@ -1,4 +1,4 @@
-# Numerical linear algebra course, AI Masters, Fall 2024
+# Numerical linear algebra course, AI Masters, Fall 2025
 
 |Date| Lectures | Practice sessions | Home assignments|
 |----|----|----| :----: |
