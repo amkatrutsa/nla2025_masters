@@ -6,4 +6,5 @@
 | 29.09.2025 | [Floating point numbers (vol 2). Vector and matrix norms](./lectures/lecture2/lecture2.ipynb) | |
 | 06.10.2025 | [Compressed sensing and unitary matrices](./lectures/lecture3/lecture3.ipynb) | |
 | 13.10.2025 | Low-rank approximation and singular value decomposition  | |
+| 20.10.2025 | Linear systems | | 
 
