@@ -8,8 +8,8 @@
 | 13.10.2025 | [Low-rank approximation and singular value decomposition](./lectures/lecture4/lecture4.ipynb)  | |
 | 20.10.2025 | [Linear systems](./lectures/lecture5/lecture5.ipynb) | | [HW1](./hw/hw1/hw1.ipynb) <br> Deadline: November, 4, 23:59 MSK
 | 27.10.2025 | Linear systems, vol.2 | | |
-| 10.11.2025 | [QR decomposition and linear least squares](./lectures/lecture8/lecture8.ipynb) | | | 
-| 17.11.2025 | [Eigendecomposition. Power method](./lectures/lecture9/lecture9.ipynb) | | | 
+| 10.11.2025 | [QR decomposition and linear least squares](./lectures/lecture6/lecture6.ipynb) | | | 
+| 17.11.2025 | [Eigendecomposition. Power method](./lectures/lecture7/lecture7.ipynb) | | | 
 | 24.11.2025 | QR algorithm and how to compute SVD | | |
 | 01.12.2025 | Sparse matrices | | |
 | 08.12.2025 | Krylov methods. Randomized linear algebra | | | 
