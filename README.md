@@ -14,6 +14,6 @@
 | 01.12.2025 | Sparse matrices | | |
 | 08.12.2025 | Krylov methods. Randomized linear algebra | | | 
 | 15.12.2025 | Intro to tensors and tensor decompositions | | |
-| 22.12.2025 | Project presentations | | [HW2](./hw/hw2/hw2.ipynb) <br> Deadline: December, 25, 23:59 MSK
+| 22.12.2025 | Project presentations | | [HW2](./hw/hw2/hw2.ipynb) <br> Deadline: December, 29, 23:59 MSK
 
 
